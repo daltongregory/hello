@@ -12,6 +12,8 @@ int main(int argc, char **argv) {
 	
   printf("Dalton is the best!\n");
   printf("Dalton is majoring in Computer Science!\n");
+  printf("Nolan is better!\n");
+  printf("Nolan is majoring in Computer Engineering!\n");
   
   return 0;
 }
